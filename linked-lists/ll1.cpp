@@ -2,7 +2,7 @@
 #include<stdlib.h>
 using namespace std;
 
-struct Node
+struct Node		//declaring a datatype i.e. Node
 {
 	int data;
 	struct Node *next;
