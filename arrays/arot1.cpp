@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void print(int a[])
+void print(int a[])		//prints the array
 {
    for(int i = 0; i<5; ++i)
    {
